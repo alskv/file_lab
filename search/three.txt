@@ -1,0 +1,6 @@
+In 1998, Daniel Bleichenbacher described the first practical adaptive chosen ciphertext attack, against RSA-encrypted messages
+ using the PKCS #1 v1 padding scheme (a padding scheme randomizes and adds structure to an RSA-encrypted message, so 
+it is possible to determine whether a decrypted message is valid). Due to flaws with the PKCS #1 scheme, Bleichenbacher was able 
+to mount a practical attack against RSA implementations of the Secure Socket Layer protocol, and to recover session keys. 
+As a result of this work, cryptographers now recommend the use of provably secure padding schemes such 
+as Optimal Asymmetric Encryption Padding, and RSA Laboratories has released new versions of PKCS #1 that are not vulnerable to these attacks. 
