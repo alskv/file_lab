@@ -1,0 +1,4 @@
+In 2009, Benjamin Moody factored an RSA-512 bit key in 73 days using only public software (GGNFS) and his desktop computer 
+(a dual-core Athlon64 with a 1,900 MHz cpu.). Just less than five gigabytes of disk storage was required and about 2.5 gigabytes 
+of RAM for the sieving process. The first RSA-512 factorization in 1999 required the equivalent of 8,400 MIPS years, over an 
+elapsed time of about seven months.
